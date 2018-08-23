@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{E51986FC-F26E-417E-91E5-6B2B7902F625}</ProjectGuid>
+    <ProjectGuid>{0DAC911F-51F7-48BA-A0F8-0A0274FF709A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GumballInc</RootNamespace>
